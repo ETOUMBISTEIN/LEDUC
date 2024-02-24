@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Votre Nom - Passionné de Lecture et d'Écriture</title>
+    <title> ETOUMBI Stein - Passionné de Lecture et d'Écriture</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -58,7 +58,7 @@
 <body>
 
     <header>
-        <h1>Votre Nom - Passionné de Lecture et d'Écriture</h1>
+        <h1> ETOUMBI Stein - Passionné de Lecture et d'Écriture</h1>
     </header>
 
     <section>
